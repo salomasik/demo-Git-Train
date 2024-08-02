@@ -1,3 +1,3 @@
-#GIT training
+# GIT training
 
 some practices for a git
